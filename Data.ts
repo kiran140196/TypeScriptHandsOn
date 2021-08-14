@@ -1,0 +1,24 @@
+var n = null;
+console.log("Value is: ",n);
+console.log(typeof(n));
+var x = true;
+console.log(typeof(x));
+var y = `demo India
+hello world`;
+console.log(typeof(y));
+console.log(y);
+var no = 3.14;
+console.log(typeof(no));
+var arr : number[] = [10,20,30];
+console.log(arr);
+console.log(typeof(arr));
+console.log(arr[0]);
+var num : number = 11;
+console.log(num);
+var num  : number = 21;
+console.log(num);
+var no1 : number = 10;
+var no2 : number = 20;
+var ans : number = 0;
+ans = no1 + no2;
+console.log("Addition is: ", ans);
